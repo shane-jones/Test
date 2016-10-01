@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is some text in push-test.txt. This is a change in GitHub. This is a change on the local drive. Another change on the local drive.
-=======
-This is some text in push-test.txt. This is a change in GitHub. This is a change on the local drive. This is another change in GitHub.
->>>>>>> e0a0e28c7c78717445894d8d4d9fea4fe9de0023
+This is some text in push-test.txt. This is a change in GitHub. This is a change on the local drive. Another change on the local drive. This is another change in GitHub.
